@@ -1,0 +1,294 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%;
+    height: 100vh;
+}
+nav{
+    width: 100%;
+    height: 10vh;
+}
+.div1{
+    width: 100%;
+    height: 5vh;
+    background-color: black;
+    display: inline-flex;
+}
+.div2{
+    width: 100%;
+    height: 15vh;
+    display: inline-flex;
+}
+.div2{
+    width: 100%;
+    height: 15vh;
+}
+.div4{
+    width: 50%;
+    height: 5vh;
+    background-color: #414141;
+    color: aliceblue;
+    display: inline-flex;
+}
+.div5{
+    width: 50%;
+    height: 5vh;
+    background-color: #414141;
+    color: aliceblue;
+    display: inline-flex;
+    justify-content: end;
+}
+#i{
+    color: yellow;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.div6{
+    width: 50%;
+    height: 5vh;
+    background-color: #414141;
+    display: inline-flex;
+}
+.div7{
+    width: 50%;
+    height: 5vh;
+    background-color: #414141;
+    display: inline-flex;
+}
+#img{
+    margin-left: 20px;
+}
+.div8{
+    width: 33%;
+    height: 5vh;
+    background-color: #414141;
+}
+.div9{
+    width: 33%;
+    height: 5vh;
+    background-color: #414141;
+    display: inline-flex;
+}
+.div10{
+    width: 12%;
+    height: 5vh;
+    background-color: #414141;
+    display: inline-flex;
+}
+#img1{
+    width: 15%;
+    height: 10vh;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+#img2{
+    margin-top: -10px;
+}
+.div11{
+    width: 20%;
+    height: 15vh;
+}
+.div12{
+    width: 70%;
+    height: 15vh;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.div13{
+    width: 20%;
+    height: 15vh;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#img3{
+    width: 100%;
+    height: 50vh;
+    margin-top: -95px;
+}
+.div14{
+    width: 90%;
+    height: 7vh;
+    border-radius: 30px;
+    border: 2px solid grey;
+    display: inline-flex;
+}
+#inp{
+    width: 90%;
+    height: 7vh;
+    border-radius: 30px 0px 0px 30px;
+    border: none;   
+}
+#btn1{
+    width: 10%;
+    height: 7vh;
+    border: none;
+    border-radius: 0px 30px 30px 0px;
+}
+#btn1>i{
+    font-size: 20pt;
+}
+#img4{
+    width: 20%;
+    background: none;
+}
+#img5{
+    width: 20%;
+    background: none;
+}
+#img6{
+    width: 20%;
+    background: none;
+}
+.div15{
+    width: 100%;
+    height: 10vh;
+    margin-top: -20px;
+    display: inline-flex;
+}
+.div17{
+    width: 20%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+}
+.div18{
+    width: 10%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+}
+.div19{
+    width: 10%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+}
+.div20{
+    width: 10%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+}
+.div21{
+    width: 10%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+}
+.div22{
+    width: 10%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+}
+.div222{
+    width: 30%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: end;
+}
+.div2231{
+    width: 100%;
+    height: 5vh;
+    background: linear-gradient(90deg, crimson, orange);
+}
+.div223{
+    width: 69%;
+    height: 10vh;
+}
+.div23{
+    width: 10%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+}
+#img7{
+    margin-top: -10px;
+}
+#img8{
+    margin-top: -10px;
+    width: 30px; 
+}
+#img9{
+    margin-top: -10px;
+    width: 30px; 
+}
+#img10{
+    margin-top: -10px;
+    width: 30px; 
+}
+#img11{
+    margin-top: -10px;
+    width: 30px; 
+}
+#img12{
+    margin-top: -10px;
+    width: 30px; 
+}
+#img13{
+    margin-top: -10px;
+    width: 30px; 
+}
+.div24{
+    width: 100%;
+    height: 70vh;
+    margin-top: 95px;
+    display: inline-flex;
+}
+.div25{
+    width: 20%;
+    height: 70vh;
+}
+.div26{
+    width: 79%;
+    height: 70vh;
+    background-color: darkgoldenrod;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: white;
+    border-radius: 30px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #efae0c;
+    border-radius: 30px;
+}
+.section1{
+    width: 100%;
+    height: 80vh;
+    background-color: chocolate;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.section>img{
+    height: 30vh;
+}
+#h5{
+    background-color: #efae0c;
+}
+.div27{
+    text-align: center;
+}
+.div28{
+    text-align: center;
+}
+.div29{
+    text-align: center;
+}
+.div30{
+    text-align: center;
+}
+.div31{
+    text-align: center;
+}
+.section2{
+    width: 100%;
+    height: 50vh;
+    background-color: #efae0c;
+}
